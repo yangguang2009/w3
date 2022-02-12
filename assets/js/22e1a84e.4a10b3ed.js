@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkW3_website=self.webpackChunkW3_website||[]).push([[793],{1095:function(e){e.exports=JSON.parse('{"permalink":"/w3/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
